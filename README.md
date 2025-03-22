@@ -11,8 +11,8 @@ Ensure you have Python 3.8 or later installed.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd news-sentiment-analyzer
+   git clone https://github.com/Anirudh973/Akaike_Internship.git
+   cd Akaike_Internship
    ```
 
 2. Install dependencies:
