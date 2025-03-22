@@ -1,0 +1,16 @@
+requests
+newsapi-python
+transformers
+gtts
+streamlit
+fastapi
+uvicorn
+keybert
+matplotlib
+seaborn
+numpy
+pandas
+wordcloud
+scikit-learn
+torch
+tensorflow-cpu
